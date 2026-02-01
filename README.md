@@ -139,7 +139,7 @@ pip install "numpy<2"
 
 ```bash
 pip install -r requirements.txt
-```bash
+```
 
 requirements.txt:
 ```
@@ -151,7 +151,7 @@ ffmpeg-python
 python-dotenv
 ```
 
-### 3. FFmpeg insatll
+### 3. FFmpeg install
 ```bash
 sudo apt install -y ffmpeg
 ```
@@ -266,6 +266,7 @@ Commercial usage may require **separate permission** from VOICEVOX.
 - Realtime multi-speaker translation
 
 ---
+
 
 
 
