@@ -140,7 +140,7 @@ pip install "numpy<2"
 
 ```bash
 pip install -r requirements.txt
-```
+```bash
 ### requirements.txt↑
 ```
 whisperx==3.2.0
@@ -149,6 +149,11 @@ numpy<2
 requests
 ffmpeg-python
 python-dotenv
+```
+
+### FFmpeg insatll
+```bash
+sudo apt install -y ffmpeg
 ```
 
 ---
@@ -261,6 +266,7 @@ Commercial usage may require **separate permission** from VOICEVOX.
 - Realtime multi-speaker translation
 
 ---
+
 
 
 
