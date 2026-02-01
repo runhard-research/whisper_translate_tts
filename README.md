@@ -109,6 +109,7 @@ curl http://localhost:50021/version
 git clone https://github.com/runhard-research/whisper_translate_tts.git
 cd whisper_translate_tts
 ```
+
 ---
 
 ## Python Environment Setup
@@ -141,6 +142,7 @@ pip install "numpy<2"
 ```bash
 pip install -r requirements.txt
 ```bash
+
 ### requirements.txt↑
 ```
 whisperx==3.2.0
@@ -151,7 +153,9 @@ ffmpeg-python
 python-dotenv
 ```
 
-### FFmpeg insatll
+---
+
+### 3. FFmpeg insatll
 ```bash
 sudo apt install -y ffmpeg
 ```
@@ -266,6 +270,7 @@ Commercial usage may require **separate permission** from VOICEVOX.
 - Realtime multi-speaker translation
 
 ---
+
 
 
 
