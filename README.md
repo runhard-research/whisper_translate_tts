@@ -121,8 +121,6 @@ python3 -m venv .venv
 source .venv/bin/activate
 ```
 
----
-
 ### 2. Install Dependencies
 
 ```bash
@@ -143,7 +141,7 @@ pip install "numpy<2"
 pip install -r requirements.txt
 ```bash
 
-### requirements.txt↑
+requirements.txt:
 ```
 whisperx==3.2.0
 faster-whisper==1.0.0
@@ -152,8 +150,6 @@ requests
 ffmpeg-python
 python-dotenv
 ```
-
----
 
 ### 3. FFmpeg insatll
 ```bash
@@ -270,6 +266,7 @@ Commercial usage may require **separate permission** from VOICEVOX.
 - Realtime multi-speaker translation
 
 ---
+
 
 
 
