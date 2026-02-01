@@ -103,6 +103,14 @@ curl http://localhost:50021/version
 
 ---
 
+## Quick Start
+
+```bash
+git clone https://github.com/runhard-research/whisper_translate_tts.git
+cd whisper_translate_tts
+```
+---
+
 ## Python Environment Setup
 
 ### 1. Create venv
@@ -253,5 +261,6 @@ Commercial usage may require **separate permission** from VOICEVOX.
 - Realtime multi-speaker translation
 
 ---
+
 
 
