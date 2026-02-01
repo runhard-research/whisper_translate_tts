@@ -1,0 +1,16 @@
+# python
+__pycache__/
+*.pyc
+.venv/
+venv/
+
+# env
+.env
+
+# work
+work/
+*.wav
+*.mp3
+
+# temp
+tmp/

@@ -1,0 +1,15 @@
+numpy==1.26.4
+
+torch==2.1.2+cpu
+torchaudio==2.1.2+cpu
+
+whisperx==3.1.1
+
+pyannote.audio==3.1.1
+pyannote-core==5.0.0
+pyannote-metrics==3.2.1
+
+openai>=1.6.1
+python-dotenv
+requests
+ffmpeg-python

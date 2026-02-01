@@ -1,0 +1,33 @@
+{
+    "voicevox_url": "http://localhost:50021",
+    "speaker_mapping": {
+        "SPEAKER_00": {
+            "name": "話者A",
+            "voicevox_speaker_id": 13,
+            "description": "青山龍星 (ノーマル)"
+        },
+        "SPEAKER_01": {
+            "name": "話者B",
+            "voicevox_speaker_id": 20,
+            "description": "もち子さん(ノーマル)"
+        },
+        "SPEAKER_02": {
+            "name": "話者C",
+            "voicevox_speaker_id": 8,
+            "description": "春日部つむぎ (ノーマル)"
+        }
+    },
+    "default_speaker": {
+        "voicevox_speaker_id": 1,
+        "description": "デフォルト話者 (未知の話者用)"
+    },
+    "whisperx": {
+        "model": "base",
+        "device": "cpu",
+        "compute_type": "int8",
+        "language": "en"
+    },
+    "audio": {
+        "segment_silence_ms": 200
+    }
+}
