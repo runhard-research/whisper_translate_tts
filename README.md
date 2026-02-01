@@ -145,7 +145,7 @@ requirements.txt:
 ```
 whisperx==3.2.0
 faster-whisper==1.0.0
-numpy<2
+
 requests
 ffmpeg-python
 python-dotenv
@@ -266,6 +266,7 @@ Commercial usage may require **separate permission** from VOICEVOX.
 - Realtime multi-speaker translation
 
 ---
+
 
 
 
